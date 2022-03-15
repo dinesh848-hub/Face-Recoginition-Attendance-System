@@ -35,6 +35,9 @@ Design  of an automatic attendance system using face detection . The system requ
 ![image](https://user-images.githubusercontent.com/77382339/158355796-4d530a6b-7a4c-471a-9914-ac62fb9cbcbb.png)
 
 
+
+
+
 ### Marks Attendance in a file (.csv)
 
 ![image](https://user-images.githubusercontent.com/77382339/158355895-12b89038-98bb-475e-803b-b280799d6774.png)

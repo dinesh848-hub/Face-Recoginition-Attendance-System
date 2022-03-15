@@ -7,6 +7,7 @@
 
 The system works on face recognition where each student in the class is photographed and their details are stored in a server. The teacher can then record the attendance by just clicking some pictures of the classroom. The system will recognize the faces and verify the presence or absence of each student.
 
+![image](https://user-images.githubusercontent.com/77382339/158355704-eb550a3e-169c-43e0-92c1-3ca51815f717.png)
 
 ####  Project Definition  
 Design  of an automatic attendance system using face detection . The system requires a video capturing device which continuously detects the face of attendees and mark them as present if present in the database.  
@@ -26,3 +27,15 @@ Design  of an automatic attendance system using face detection . The system requ
 1. CV2  - OpenCV-Python is a library of Python bindings designed to solve computer vision problems. All the OpenCV array structures are converted to and from Numpy arrays.  
 2. Numpy - NumPy is a Python library used for working with arrays. It also has functions for working in domain of linear algebra, fourier transform, and matrices.  
 3. face_recognition - Recognize and manipulate faces from Python or from the command line with the world’s simplest face recognition library. Built using dlib‘s state-of-the-art face recognition built with deep learning. The model has an accuracy of 99.38% on the Labeled Faces in the Wild benchmark.   
+
+
+### Project Snapshots 
+
+
+![image](https://user-images.githubusercontent.com/77382339/158355796-4d530a6b-7a4c-471a-9914-ac62fb9cbcbb.png)
+
+
+### Marks Attendance in a file (.csv)
+
+![image](https://user-images.githubusercontent.com/77382339/158355895-12b89038-98bb-475e-803b-b280799d6774.png)
+
